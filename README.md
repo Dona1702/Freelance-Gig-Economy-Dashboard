@@ -80,13 +80,13 @@ MSc Computer Science
 
 **📸 Preview**
 
-!\[Dashboard Preview](Freelancer\_Earnings\_Snapshot.png)
+!\[Dashboard Preview](./images)
 
 
 
 **📥 Download**
 
-\- \[FreelenceDashboard.pbix](./FreelenceDashboard.pbix)
+\- \[FreelenceDashboard.pbix](./FreelanceDashboard.pbix)
 
 
 
