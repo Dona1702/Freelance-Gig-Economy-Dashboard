@@ -86,7 +86,7 @@ MSc Computer Science
 
 **📥 Download**
 
-\- \[FreelenceDashboard.pbix](./FreelanceDashboard.pbix)
+!\[FreelenceDashboard.pbix](./FreelanceDashboard.pbix)
 
 
 
