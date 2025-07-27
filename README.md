@@ -80,14 +80,10 @@ MSc Computer Science
 
 **📸 Preview**
 
+![Overview](images/Overview.png)
+
 [Images Folder](./images/)
 
-![Overview](images/Overview.png)
-![Freelance Insights](images/FreelanceInsights.png)
-![Regional Analysis](images/RegionalAnalysis.png)
-![Marketing Performance](images/MarketingPerformance.png)
-![QA](images/QA.png)
-![Slicers](images/Slicers.png)
 
 
 **📥 Download**
